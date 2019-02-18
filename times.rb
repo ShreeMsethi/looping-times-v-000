@@ -5,6 +5,7 @@ def using_times
     puts "Wingardium Leviosa"
     if counter <=7
     end
+  end
 	#your code here
 end
 
